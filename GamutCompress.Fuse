@@ -70,7 +70,7 @@ FuRegisterClass("GamutCompress", CT_Tool, {
     REGS_OpDescription = "Compress out of gamut colors back into gamut.",
     REG_Fuse_NoEdit = false,
     REG_Fuse_NoReload = false,
-    REG_SupportsDoD = false,
+    REG_SupportsDoD = true,
 })
 
 
